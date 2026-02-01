@@ -198,10 +198,8 @@ While these are personal projects, I'm open to feedback and suggestions!
 
 **Yacine Abdi**
 
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn]
-- 🐙 GitHub: [@OEOEOEDZ](https://github.com/OEOEOEDZ)
-- 🌐 Portfolio: [Your Website]
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/yacine-abdi-9b9226257/)
+- 🐙 GitHub: [GitHub](https://github.com/OEOEOEDZ)
 
 Feel free to reach out for:
 - Collaboration opportunities
@@ -406,6 +404,6 @@ If you find these projects useful or interesting, please consider:
 
 ---
 
-*Built with ❤️ by Yacine Abdi*
+*By Yacine Abdi*
 
 **Last Updated:** February 2026# Python-Trading-
