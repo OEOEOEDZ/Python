@@ -49,33 +49,6 @@ A professional-grade algorithmic trading simulator with comprehensive backtestin
 
 ---
 
-## 📁 Repository Structure
-
-```
-Python/
-├── Trading/
-│   └── algorithmic-trading-simulator/
-│       ├── src/
-│       │   ├── strategies/          # Trading strategies
-│       │   ├── backtester/          # Backtesting engine
-│       │   ├── data/                # Data handling
-│       │   ├── analytics/           # Performance metrics
-│       │   └── visualization/       # Plotting tools
-│       ├── tests/                   # Unit tests
-│       ├── examples/                # Usage examples
-│       └── docs/                    # Documentation
-│
-├── [Future Projects]
-│   ├── Machine-Learning/
-│   ├── Data-Analysis/
-│   ├── Web-Scraping/
-│   └── APIs/
-│
-└── README.md
-```
-
----
-
 ## 🎯 Current Projects
 
 ### ✅ Completed
