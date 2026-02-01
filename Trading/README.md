@@ -198,10 +198,8 @@ While these are personal projects, I'm open to feedback and suggestions!
 
 **Yacine Abdi**
 
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn]
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/yacine-abdi-9b9226257/)
 - 🐙 GitHub: [@OEOEOEDZ](https://github.com/OEOEOEDZ)
-- 🌐 Portfolio: [Your Website]
 
 Feel free to reach out for:
 - Collaboration opportunities
